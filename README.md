@@ -4,6 +4,9 @@
 ## 프로젝트 방향
 해당 프로젝트는 카메라 내의 사람얼굴을 인식하여 사람에 대한 정보와 인증시간을 블록체인에 저장하며, 이더리움의 스마트 컨트랙트를 통해 발급한 토큰을 통한 결제를 할 수 있는 프로그램입니다.
 
+## 시스템 구성도
+![image](https://user-images.githubusercontent.com/67899069/146915370-c29bd8ad-1a79-4055-8232-479deb737f90.png)
+
 ## 개발 환경
 ![image](https://user-images.githubusercontent.com/67899069/140618008-a67bd7d0-d6c3-4b94-a080-21d97a7a1330.png)
 
